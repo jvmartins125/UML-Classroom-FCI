@@ -76,7 +76,8 @@ O sistema deve ser ágil para alterar e buscar informações de alunos na base d
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+*&lt;![Captura de tela 2024-12-05 160820](https://github.com/user-attachments/assets/8c17bc9f-a9c1-41ae-b984-d41af2e0c683)
+&gt;*
 
 # Referências
 
