@@ -34,19 +34,22 @@
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;
 registros funcionais:
-1. registro de faltas: O sistema deve permitir que os professores registrem faltas dos alunos de forma fácil e intuitiva. Deve possibilitar o registro de faltas tanto no início das aulas quanto após o intervalo e coletar as faltas dos alunos de forma organizada.
-2. cadastro:Professores, alunos, turmas e matérias serão cadastrados no sistema para viabilizar o registro de faltas.O cadastro é essencial para identificar corretamente os atores do sistema e suas respectivas disciplinas.
-3. Relatórios de Faltas:O sistema deve gerar relatórios de faltas agrupados por critérios como data, ano do ensino, turma, professor, disciplina ou aluno.
-Relatórios exportáveis em formatos comuns, como PDF e Excel, para análise e acompanhamento.
+
+1. registro de faltas: O sistema deve permitir que os professores registrem faltas dos alunos de forma fácil. Deve possibilitar o registro de faltas tanto no início das aulas quanto após o intervalo e coletar as faltas dos alunos de forma simples.
+
+2. cadastro: Professores, alunos, turmas e serão cadastrados no sistema para viabilizar o registro de faltas. O cadastro é essencial para identificar corretamente os atores do sistema e suas respectivas disciplinas.
+
+3. Relatórios de Faltas: O sistema deve gerar relatórios de faltas agrupados por critérios como data, ano do ensino, turma, professor, disciplina ou aluno.
+
 4. Envio de Notificações:O sistema deve enviar notificações por e-mail para os responsáveis quando a presença de um aluno estiver abaixo de 80%.
 As notificações devem incluir informações detalhadas sobre as faltas do aluno, alertando os usuários sobre a situação.
 
 Registros nao funcionais:
+
 1. Acessibilidade e Usabilidade: O sistema deve ser acessível para todas as pessoas envolvidas, garantindo que todos consigam utilizar de forma fácil e eficiente.
-Deve ser acessível em todos os navegadores e dispositivos, permitindo o acesso de qualquer lugar.
-Garantir uma interface intuitiva e de fácil utilização.
+
 2. Segurança e Confiabilidade: Garantir medidas de prevenção para possíveis ameaças e vulnerabilidades
-Garantir a sincronização dos dados presentes na base de dados e disponibilizados para alteração.
+
 3. Desempenho e Responsividade: Garantir um tempo de resposta adequado após a inserção de informações pelo usuário.
 O sistema deve ser ágil para alterar e buscar informações de alunos na base de dados, facilitando o seu uso.&gt;*
 
