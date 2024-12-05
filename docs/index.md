@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Sistema de matriculas&gt;*
+*&lt;Sistema de matriculas-Escola infinito&gt;*
 </center></font>
 
 **Conteúdo**
