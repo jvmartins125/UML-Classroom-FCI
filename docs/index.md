@@ -23,8 +23,8 @@
 
 # Autores
 
-* joao victor martins
-* andre kim
+* Joao victor martins
+* Andre kim
 
 
 # Descrição do Projeto
