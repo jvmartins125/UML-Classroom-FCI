@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;Sistema de presenca&gt;*
 </center></font>
 
 **Conteúdo**
