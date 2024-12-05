@@ -94,4 +94,4 @@ relação caso o aluno tenha passado de 25% de presença
 
 # Referências
 
-*&lt;pdf do professor e SOMMERVILLE, I. Engenharia de software. 10. ed. São Paulo: Pearson Education do Brasil, 2018 Filho, W.D.P. P. (2019). Engenharia de Software – Produtos – Vol.1 (4th ed.). Pressman, R. S., & Maxim, B. R. (2021). Engenharia de software (9th ed.).&gt;*
+*&lt;PDF do professor. SOMMERVILLE, I. Engenharia de software. 10. ed. São Paulo: Pearson Education do Brasil, 2018 Filho, W.D.P. P. (2019). Engenharia de Software – Produtos – Vol.1 (4th ed.). Pressman, R. S., & Maxim, B. R. (2021). Engenharia de software (9th ed.).&gt;*
