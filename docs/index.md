@@ -68,7 +68,8 @@ O sistema deve ser ágil para alterar e buscar informações de alunos na base d
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+*&lt;![Captura de tela 2024-12-05 160803](https://github.com/user-attachments/assets/30780450-8588-441e-8f23-80472a6a2bd5)
+&gt;*
 
 # Diagrama de Estados
 
