@@ -56,7 +56,8 @@ O sistema deve ser ágil para alterar e buscar informações de alunos na base d
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+*&lt;![Captura de tela 2024-12-05 160710](https://github.com/user-attachments/assets/2f837015-2d91-4025-977f-78c63d976e28)
+&gt;*
 
 # Descrição dos Casos de Uso
 
