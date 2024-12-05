@@ -65,7 +65,8 @@ O sistema deve ser ágil para alterar e buscar informações de alunos na base d
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+*&lt;![Captura de tela 2024-12-05 161756](https://github.com/user-attachments/assets/c6585522-91c7-4b1f-8231-7261a45f658f)
+&gt;*
 
 # Diagrama de Classes
 
