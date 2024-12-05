@@ -52,7 +52,8 @@ O sistema deve ser ágil para alterar e buscar informações de alunos na base d
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+*&lt;![Captura de tela 2024-12-05 161810](https://github.com/user-attachments/assets/9cd447a8-a2cd-4328-9c70-98a1d5409164)
+&gt;*
 
 # Diagrama de Casos de Uso
 
