@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Sistema de presenca&gt;*
+*&lt;Sistema de matriculas&gt;*
 </center></font>
 
 **Conteúdo**
