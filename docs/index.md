@@ -62,7 +62,15 @@ O sistema deve ser ágil para alterar e buscar informações de alunos na base d
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+*&lt;![Captura de tela 2024-12-05 160735](https://github.com/user-attachments/assets/e216aa7f-373a-4313-9e96-f5c3693c3026)
+relação professor e sistema de chamadas
+
+![Captura de tela 2024-12-05 160742](https://github.com/user-attachments/assets/ce8f0971-5529-4443-b495-caf11b62e062)
+relação pais com o sistema de chamadas
+
+![Captura de tela 2024-12-05 160749](https://github.com/user-attachments/assets/74c7fca0-d454-432f-a857-f1eb46a296e9)
+relação caso o aluno tenha passado de 25% de presença 
+&gt;*
 
 # Diagrama de Sequência
 
@@ -86,4 +94,4 @@ O sistema deve ser ágil para alterar e buscar informações de alunos na base d
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+*&lt;pdf do professor e SOMMERVILLE, I. Engenharia de software. 10. ed. São Paulo: Pearson Education do Brasil, 2018 Filho, W.D.P. P. (2019). Engenharia de Software – Produtos – Vol.1 (4th ed.). Pressman, R. S., & Maxim, B. R. (2021). Engenharia de software (9th ed.).&gt;*
