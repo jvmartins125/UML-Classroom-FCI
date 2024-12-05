@@ -29,7 +29,7 @@
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+*&lt;O projeto visa Desenvolver um sistema digital para gerenciar o controle de presenças dos alunos da Escola Infinito, substituindo o processo manual em papel. A aplicação deverá permitir o registro de faltas de maneira intuitiva, gerar relatórios de frequência detalhados e enviar notificações automáticas aos responsáveis em caso de excesso de faltas. Além disso, o sistema deve ser acessível a partir de dispositivos móveis e navegadores, garantindo uma experiência acessível para todos os usuários, incluindo aqueles com necessidades especiais.&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
