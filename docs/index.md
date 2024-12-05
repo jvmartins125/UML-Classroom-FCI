@@ -67,15 +67,15 @@ O sistema deve ser ágil para alterar e buscar informações de alunos na base d
 
 *&lt;![Captura de tela 2024-12-05 160735](https://github.com/user-attachments/assets/e216aa7f-373a-4313-9e96-f5c3693c3026)
 
-relação professor e sistema de chamadas
+1 caso: relação professor e sistema de chamadas
 
 ![Captura de tela 2024-12-05 160742](https://github.com/user-attachments/assets/ce8f0971-5529-4443-b495-caf11b62e062)
 
-relação pais com o sistema de chamadas
+2 caso: relação pais com o sistema de chamadas
 
 ![Captura de tela 2024-12-05 160749](https://github.com/user-attachments/assets/74c7fca0-d454-432f-a857-f1eb46a296e9)
 
-relação caso o aluno tenha passado de 25% de presença 
+3 caso: relação caso o aluno tenha passado de 25% de presença 
 &gt;*
 
 # Diagrama de Sequência
