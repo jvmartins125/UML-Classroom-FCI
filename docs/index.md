@@ -72,7 +72,8 @@ O sistema deve ser ágil para alterar e buscar informações de alunos na base d
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+*&lt;![Captura de tela 2024-12-05 160812](https://github.com/user-attachments/assets/14e65645-197e-4260-ae0f-053d14a2ab00)
+&gt;*
 
 # Diagrama de Implantação
 
